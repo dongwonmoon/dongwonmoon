@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![dongwonmoon's github stats](https://github-readme-stats.vercel.app/api?username=dongwonmoon&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-[![dongwonmoon's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwonmoon&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![dongwonmoon's github stats](https://github-readme-stats.vercel.app/api?username=dongwonmoon&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) [![dongwonmoon's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwonmoon&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.sh/github.com/dongwonmoon/hits.svg)](https://hits.sh/github.com/dongwonmoon/hits/)
 
