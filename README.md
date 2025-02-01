@@ -81,4 +81,4 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ht4l5aruulylrx5aywgtbgjx2e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ht4l5aruulylrx5aywgtbgjx2e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/dongwonmoon/spotify-github-profile)
