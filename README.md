@@ -14,7 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![dongwonmoon's github stats](https://github-readme-stats.vercel.app/api?username=dongwonmoon&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) [![dongwonmoon's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwonmoon&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) 
+<h3 align="center">📊 GitHub Stats 📊</h3>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=dongwonmoon&theme=blue-green" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongwonmoon&theme=blue-green" />
+  </a>
+</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -53,11 +62,12 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-
 <div align="center">
   <a href="https://hits.sh/github.com/dongwonmoon/hits/">
     <img src="https://hits.sh/github.com/dongwonmoon/hits.svg" />
   </a>
+</div>
+<div align="center">
   <a href="https://github.com/dongwonmoon/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ht4l5aruulylrx5aywgtbgjx2e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
   </a>
