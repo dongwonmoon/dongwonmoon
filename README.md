@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![dongwonmoon's github stats](https://github-readme-stats.vercel.app/api?username=dongwonmoon&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) [![dongwonmoon's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwonmoon&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![dongwonmoon's github stats](https://github-readme-stats.vercel.app/api?username=dongwonmoon&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) [![dongwonmoon's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwonmoon&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ht4l5aruulylrx5aywgtbgjx2e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 [![Hits](https://hits.sh/github.com/dongwonmoon/hits.svg)](https://hits.sh/github.com/dongwonmoon/hits/)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ht4l5aruulylrx5aywgtbgjx2e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
