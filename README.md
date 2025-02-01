@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![dongwonmoon's github stats](https://github-readme-stats.vercel.app/api?username=dongwonmoon&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) [![dongwonmoon's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwonmoon&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) [![Hits](https://hits.sh/github.com/dongwonmoon/hits.svg)](https://hits.sh/github.com/dongwonmoon/hits/)
+[![dongwonmoon's github stats](https://github-readme-stats.vercel.app/api?username=dongwonmoon&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) [![dongwonmoon's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwonmoon&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -29,40 +29,16 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 </div>
 
 <br>
-
-<h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>div>  
 
 <br>
 
@@ -73,5 +49,5 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/ansehddnjs187@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
+[![Hits](https://hits.sh/github.com/dongwonmoon/hits.svg)](https://hits.sh/github.com/dongwonmoon/hits/)
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ht4l5aruulylrx5aywgtbgjx2e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/dongwonmoon/spotify-github-profile)
