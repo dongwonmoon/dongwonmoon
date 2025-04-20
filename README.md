@@ -51,23 +51,3 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-
-<h3 align="center">📫 Contact 📫</h3>
-
-<div align="center">
-  <a href="mailto:ansehddnjs187@gmail.com">
-    <img src="https://img.shields.io/badge/ansehddnjs187@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br>
-<div align="center">
-  <a href="https://hits.sh/github.com/dongwonmoon/hits/">
-    <img src="https://hits.sh/github.com/dongwonmoon/hits.svg" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/dongwonmoon/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ht4l5aruulylrx5aywgtbgjx2e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-  </a>
-</div>
