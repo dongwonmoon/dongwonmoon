@@ -60,7 +60,8 @@
 
 <p align="center">
   🔧 C++ for performance-critical applications (e.g. PCL, OpenCV)<br>
-  ⚙️ TypeScript for scalable full-stack web development<br>
+  🧰 TypeScript for typed front-end/backend development<br>
+  ⚙️ Node.js for API server development and scalable backend systems<br>
 </p>
 
 ---
