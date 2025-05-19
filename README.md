@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Dongwon Moon!
 
 🎓 college student majoring in Industrial Engineering.  
-🔍 Interested in **Backend development**, **Artificial Intelligence**, **Machine Learning**, and **Optimization**.
+🔍 Interested in **Backend development**, **Artificial Intelligence**, **Machine Learning**, and **Optimization**.  
 🛠️ I enjoy solving real-world problems using code and exploring how AI models actually "think."  
 
 ---
