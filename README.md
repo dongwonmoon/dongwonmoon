@@ -58,10 +58,20 @@
 
 <h3 align="center">📚 Currently Learning</h3>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-023430?style=for-the-badge&logo=mlflow&logoColor=white" />
+</div>
+
+<br>
+
 <p align="center">
-  🔧 <b>C++</b> for performance-critical applications (e.g. PCL, OpenCV)<br>
-  🧰 <b>TypeScript</b> for typed front-end/backend development<br>
-  ⚙️ <b>Node.js</b> for API server development and scalable backend systems<br>
+  🐳 <b>Docker</b> for containerization and reproducible environments<br>
+  🔄 <b>Apache Kafka</b> for real-time data streaming and event-driven architecture<br>
+  📊 <b>Apache Airflow</b> for workflow orchestration and data pipeline automation<br>
+  📦 <b>MLflow</b> for managing the machine learning lifecycle and experiment tracking<br>
 </p>
 
 ---
