@@ -59,8 +59,7 @@
 <br>
 
 <div align="center">
-  <!-- Messaging & Database -->
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <!-- Database -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
