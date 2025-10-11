@@ -2,7 +2,6 @@
 
 🎓 College student majoring in Industrial Engineering. \
 🔍 Interested in **Backend Development**, **Artificial Intelligence**, **Machine Learning**, and **Optimization**. \
-🛠️ I enjoy solving real-world problems using code and exploring how AI models actually “think.”
 
 ---
 
