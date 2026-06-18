@@ -1,6 +1,4 @@
-# dongwonmoon
-
-<h2 align="center">dongwonmoon</h2>
+## 👋👋
 
 <p align="center">
   <sub>Kim Jung Mi - Now</sub>
