@@ -14,3 +14,7 @@
 <p align="center">
   <img height="150" src="https://streak-stats.demolab.com?user=dongwonmoon&hide_border=true&background=00000000&ring=57606A&fire=57606A&currStreakNum=24292F&sideNums=24292F&currStreakLabel=24292F&sideLabels=57606A&dates=8C959F&stroke=EAECEF" />
 </p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/dongwonmoon/dongwonmoon/main/cards/ai-usage-full.svg" alt="AI coding usage" />
+</p>
