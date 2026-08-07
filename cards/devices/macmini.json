@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "macmini",
-  "updatedAt": "2026-08-07T06:09:33.286Z",
+  "updatedAt": "2026-08-07T06:09:48.718Z",
   "daily": [
     {
       "agent": "all",
@@ -3342,8 +3342,8 @@
     {
       "agent": "all",
       "cacheCreationTokens": 742043,
-      "cacheReadTokens": 278952367,
-      "inputTokens": 5798712,
+      "cacheReadTokens": 279234095,
+      "inputTokens": 5802835,
       "metadata": {
         "agents": [
           "codex",
@@ -3369,11 +3369,11 @@
         },
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 221101696,
-          "cost": 1.2787123887999992,
-          "inputTokens": 2709552,
+          "cacheReadTokens": 221383424,
+          "cost": 1.2803200871999991,
+          "inputTokens": 2713675,
           "modelName": "deepseek-v4-flash",
-          "outputTokens": 377342
+          "outputTokens": 378053
         },
         {
           "cacheCreationTokens": 742043,
@@ -3399,24 +3399,24 @@
         "gpt-5.6-sol",
         "hy3"
       ],
-      "outputTokens": 606880,
+      "outputTokens": 607591,
       "period": "2026-08-07",
-      "totalCost": 44.1155977688,
-      "totalTokens": 286814014
+      "totalCost": 44.1172054672,
+      "totalTokens": 287100728
     }
   ],
   "totals": {
     "cacheCreationTokens": 1677491,
-    "cacheReadTokens": 1954058343,
-    "inputTokens": 702132940,
-    "outputTokens": 7464305,
-    "totalCost": 3903.3711495462007,
-    "totalTokens": 2666480173
+    "cacheReadTokens": 1954340071,
+    "inputTokens": 702137063,
+    "outputTokens": 7465016,
+    "totalCost": 3903.372757244601,
+    "totalTokens": 2666766887
   },
   "tools": [
     [
       "Claude Code",
-      -0.00019453279946901603
+      9.094947017729282e-13
     ],
     [
       "Codex",
@@ -3424,7 +3424,7 @@
     ],
     [
       "OpenCode",
-      3.384302799
+      3.3857159646
     ]
   ]
 }
