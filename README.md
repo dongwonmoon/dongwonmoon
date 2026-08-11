@@ -7,8 +7,8 @@
 <br />
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dongwonmoon&show_icons=true&hide_title=true&hide_rank=false&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a&icon_color=57606a" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongwonmoon&layout=compact&hide=Jupyter%20Notebook&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a" />
+  <img height="165" src="https://github-readme-stats-extended.vercel.app/api?username=dongwonmoon&show_icons=true&hide_title=true&hide_rank=false&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a&icon_color=57606a" />
+  <img height="165" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=dongwonmoon&layout=compact&hide=Jupyter%20Notebook&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a" />
 </p>
 
 <p align="center">
