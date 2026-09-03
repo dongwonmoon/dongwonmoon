@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/dongwonmoon/dongwonmoon/main/cards/ai-usage-full.svg" alt="AI coding usage" />
+  <img width="100%" src="https://raw.githubusercontent.com/dongwonmoon/dongwonmoon/main/cards/ai-usage-combo.svg" alt="AI coding usage" />
 </p>
