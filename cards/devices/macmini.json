@@ -1,7 +1,7 @@
 {
   "version": 1,
   "device": "macmini",
-  "updatedAt": "2026-08-07T06:09:48.718Z",
+  "updatedAt": "2026-09-03T05:33:34.708Z",
   "daily": [
     {
       "agent": "all",
@@ -2592,7 +2592,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 6207744,
-          "cost": 6.329737,
+          "cost": 4.8665176,
           "inputTokens": 349265,
           "modelName": "gpt-5.6-sol",
           "outputTokens": 49318
@@ -2604,7 +2604,7 @@
       ],
       "outputTokens": 62093,
       "period": "2026-07-15",
-      "totalCost": 30.779513,
+      "totalCost": 29.3162936,
       "totalTokens": 27741156
     },
     {
@@ -2974,7 +2974,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 77653248,
-          "cost": 62.664724,
+          "cost": 49.3023312,
           "inputTokens": 3523448,
           "modelName": "gpt-5.6-sol",
           "outputTokens": 207362
@@ -2995,7 +2995,7 @@
       ],
       "outputTokens": 282105,
       "period": "2026-07-30",
-      "totalCost": 527.0409960000001,
+      "totalCost": 513.6786032,
       "totalTokens": 190335599
     },
     {
@@ -3012,7 +3012,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 149242112,
-          "cost": 112.32671599999999,
+          "cost": 88.04878479999999,
           "inputTokens": 4822250,
           "modelName": "gpt-5.6-sol",
           "outputTokens": 453147
@@ -3041,7 +3041,7 @@
       ],
       "outputTokens": 499800,
       "period": "2026-07-31",
-      "totalCost": 137.56385316,
+      "totalCost": 113.28592196,
       "totalTokens": 183394341
     },
     {
@@ -3058,7 +3058,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 67475200,
-          "cost": 53.87388,
+          "cost": 41.796344000000005,
           "inputTokens": 2073116,
           "modelName": "gpt-5.6-sol",
           "outputTokens": 325690
@@ -3087,7 +3087,7 @@
       ],
       "outputTokens": 360957,
       "period": "2026-08-01",
-      "totalCost": 64.55862416,
+      "totalCost": 52.481088160000006,
       "totalTokens": 87251539
     },
     {
@@ -3104,7 +3104,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 41809920,
-          "cost": 33.550850000000004,
+          "cost": 26.137876,
           "inputTokens": 1474972,
           "modelName": "gpt-5.6-sol",
           "outputTokens": 175701
@@ -3133,7 +3133,7 @@
       ],
       "outputTokens": 240932,
       "period": "2026-08-02",
-      "totalCost": 37.10742716000001,
+      "totalCost": 29.69445316,
       "totalTokens": 54809775
     },
     {
@@ -3150,7 +3150,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 30271488,
-          "cost": 23.737423999999997,
+          "cost": 18.582939200000002,
           "inputTokens": 1109836,
           "modelName": "gpt-5.6-sol",
           "outputTokens": 101750
@@ -3179,7 +3179,7 @@
       ],
       "outputTokens": 299701,
       "period": "2026-08-03",
-      "totalCost": 32.02929928,
+      "totalCost": 26.87481448,
       "totalTokens": 73923033
     },
     {
@@ -3196,7 +3196,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 69653504,
-          "cost": 49.934101999999996,
+          "cost": 39.2430976,
           "inputTokens": 1965194,
           "modelName": "gpt-5.6-sol",
           "outputTokens": 176046
@@ -3225,7 +3225,7 @@
       ],
       "outputTokens": 469174,
       "period": "2026-08-04",
-      "totalCost": 62.67668188,
+      "totalCost": 51.98567748,
       "totalTokens": 142557525
     },
     {
@@ -3242,7 +3242,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 86245376,
-          "cost": 64.827528,
+          "cost": 50.8730184,
           "inputTokens": 2857462,
           "modelName": "gpt-5.6-sol",
           "outputTokens": 247251
@@ -3271,7 +3271,7 @@
       ],
       "outputTokens": 748208,
       "period": "2026-08-05",
-      "totalCost": 93.9204558,
+      "totalCost": 79.96594619999999,
       "totalTokens": 214902095
     },
     {
@@ -3289,7 +3289,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 41177088,
-          "cost": 36.408109,
+          "cost": 28.4262952,
           "inputTokens": 2113625,
           "modelName": "gpt-5.6-sol",
           "outputTokens": 175048
@@ -3336,14 +3336,14 @@
       ],
       "outputTokens": 586333,
       "period": "2026-08-06",
-      "totalCost": 49.5003906174,
+      "totalCost": 41.518576817399996,
       "totalTokens": 230771811
     },
     {
       "agent": "all",
-      "cacheCreationTokens": 742043,
-      "cacheReadTokens": 279234095,
-      "inputTokens": 5802835,
+      "cacheCreationTokens": 1065660,
+      "cacheReadTokens": 404371913,
+      "inputTokens": 7988674,
       "metadata": {
         "agents": [
           "codex",
@@ -3354,7 +3354,7 @@
         {
           "cacheCreationTokens": 0,
           "cacheReadTokens": 43086720,
-          "cost": 32.53222,
+          "cost": 25.495368,
           "inputTokens": 1402160,
           "modelName": "gpt-5.6-sol",
           "outputTokens": 132602
@@ -3369,27 +3369,27 @@
         },
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 221383424,
-          "cost": 1.2803200871999991,
-          "inputTokens": 2713675,
+          "cacheReadTokens": 342813440,
+          "cost": 1.8556108451999993,
+          "inputTokens": 4689955,
           "modelName": "deepseek-v4-flash",
-          "outputTokens": 378053
+          "outputTokens": 602069
         },
         {
-          "cacheCreationTokens": 742043,
-          "cacheReadTokens": 5119236,
-          "cost": 0.308694675,
-          "inputTokens": 233056,
+          "cacheCreationTokens": 1065660,
+          "cacheReadTokens": 8313845,
+          "cost": 0.41454008999999997,
+          "inputTokens": 233544,
           "modelName": "gpt-5.6-luna",
-          "outputTokens": 67130
+          "outputTokens": 79014
         },
         {
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 1078955,
-          "cost": 0.12065070500000005,
-          "inputTokens": 380120,
+          "cacheReadTokens": 1592148,
+          "cost": 0.1776206000000001,
+          "inputTokens": 589191,
           "modelName": "hy3",
-          "outputTokens": 22362
+          "outputTokens": 37545
         }
       ],
       "modelsUsed": [
@@ -3399,32 +3399,1630 @@
         "gpt-5.6-sol",
         "hy3"
       ],
-      "outputTokens": 607591,
+      "outputTokens": 858674,
       "period": "2026-08-07",
-      "totalCost": 44.1172054672,
-      "totalTokens": 287100728
+      "totalCost": 37.8184595352,
+      "totalTokens": 415265379
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 263580,
+      "cacheReadTokens": 217230739,
+      "inputTokens": 2311928,
+      "metadata": {
+        "agents": [
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 214602752,
+          "cost": 0.49790076280000006,
+          "inputTokens": 1957071,
+          "modelName": "deepseek-v4-flash",
+          "outputTokens": 191072
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1280121,
+          "cost": 0.12487263499999998,
+          "inputTokens": 354384,
+          "modelName": "hy3",
+          "outputTokens": 45731
+        },
+        {
+          "cacheCreationTokens": 263580,
+          "cacheReadTokens": 1347866,
+          "cost": 0.07189306000000001,
+          "inputTokens": 473,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 11679
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash",
+        "gpt-5.6-luna",
+        "hy3"
+      ],
+      "outputTokens": 248482,
+      "period": "2026-08-08",
+      "totalCost": 0.6946664578000002,
+      "totalTokens": 220332992
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 18382,
+      "cacheReadTokens": 58880058,
+      "inputTokens": 1521923,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 180736,
+          "cost": 0.6998903999999999,
+          "inputTokens": 87489,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 13882
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 58311040,
+          "cost": 0.18773249600000008,
+          "inputTokens": 1353708,
+          "modelName": "deepseek-v4-flash",
+          "outputTokens": 34475
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 358846,
+          "cost": 0.033216129999999996,
+          "inputTokens": 80714,
+          "modelName": "hy3",
+          "outputTokens": 16132
+        },
+        {
+          "cacheCreationTokens": 18382,
+          "cacheReadTokens": 29436,
+          "cost": 0.00469271,
+          "inputTokens": 12,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 1564
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "hy3"
+      ],
+      "outputTokens": 66053,
+      "period": "2026-08-09",
+      "totalCost": 0.9255317359999999,
+      "totalTokens": 60534858
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 98130048,
+      "inputTokens": 1485089,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 380928,
+          "cost": 0.7519752,
+          "inputTokens": 128641,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 4252
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 97749120,
+          "cost": 0.24150730800000017,
+          "inputTokens": 1356448,
+          "modelName": "deepseek-v4-flash",
+          "outputTokens": 38518
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash",
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 42770,
+      "period": "2026-08-10",
+      "totalCost": 0.9934825080000002,
+      "totalTokens": 99688726
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 905023,
+      "cacheReadTokens": 453651432,
+      "inputTokens": 7895098,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 81199616,
+          "cost": 43.359514399999995,
+          "inputTokens": 1664667,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 211050
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3221504,
+          "cost": 4.271457,
+          "inputTokens": 501637,
+          "modelName": "gpt-5.5",
+          "outputTokens": 5084
+        },
+        {
+          "cacheCreationTokens": 671862,
+          "cacheReadTokens": 2677592,
+          "cost": 2.369333,
+          "inputTokens": 30,
+          "modelName": "qwen3.8-max",
+          "outputTokens": 3370
+        },
+        {
+          "cacheCreationTokens": 233161,
+          "cacheReadTokens": 52403299,
+          "cost": 1.789211575,
+          "inputTokens": 2219626,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 229951
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 311962752,
+          "cost": 0.6768890827999996,
+          "inputTokens": 2802023,
+          "modelName": "deepseek-v4-flash",
+          "outputTokens": 161777
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 877824,
+          "cost": 0.6335868,
+          "inputTokens": 157605,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 11901
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1308845,
+          "cost": 0.147475075,
+          "inputTokens": 549510,
+          "modelName": "hy3",
+          "outputTokens": 26868
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash",
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra",
+        "hy3",
+        "qwen3.8-max"
+      ],
+      "outputTokens": 650001,
+      "period": "2026-08-11",
+      "totalCost": 53.2474669328,
+      "totalTokens": 463288971
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 88030,
+      "cacheReadTokens": 289359193,
+      "inputTokens": 12402870,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 112618624,
+          "cost": 65.08524560000001,
+          "inputTokens": 3112009,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 379488
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 5710592,
+          "cost": 19.949621,
+          "inputTokens": 3370823,
+          "modelName": "gpt-5.5",
+          "outputTokens": 8007
+        },
+        {
+          "cacheCreationTokens": 88030,
+          "cacheReadTokens": 97951001,
+          "cost": 3.3594783,
+          "inputTokens": 4223853,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 451694
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 73042432,
+          "cost": 0.2470431348000001,
+          "inputTokens": 1664739,
+          "modelName": "deepseek-v4-flash",
+          "outputTokens": 105563
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 36544,
+          "cost": 0.012122959999999999,
+          "inputTokens": 31446,
+          "modelName": "hy3",
+          "outputTokens": 3064
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash",
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "hy3"
+      ],
+      "outputTokens": 947816,
+      "period": "2026-08-12",
+      "totalCost": 88.6535109948,
+      "totalTokens": 302918613
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 24158080,
+      "inputTokens": 1358304,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 5776128,
+          "cost": 4.4026472,
+          "inputTokens": 433769,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 17856
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 4864,
+          "cost": 0.9430320000000001,
+          "inputTokens": 187520,
+          "modelName": "gpt-5.5",
+          "outputTokens": 100
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 8065792,
+          "cost": 0.31457883999999997,
+          "inputTokens": 502147,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 44028
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 10311296,
+          "cost": 0.18735339799999995,
+          "inputTokens": 234868,
+          "modelName": "deepseek-v4-pro",
+          "outputTokens": 18676
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-pro",
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 80660,
+      "period": "2026-08-13",
+      "totalCost": 5.8476114379999995,
+      "totalTokens": 25633319
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 109548,
+      "cacheReadTokens": 81590310,
+      "inputTokens": 889573,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1549056,
+          "cost": 1.6716064,
+          "inputTokens": 188831,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 14833
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 78246144,
+          "cost": 0.6357869520000005,
+          "inputTokens": 485876,
+          "modelName": "deepseek-v4-pro",
+          "outputTokens": 91188
+        },
+        {
+          "cacheCreationTokens": 109548,
+          "cacheReadTokens": 586982,
+          "cost": 0.04850082,
+          "inputTokens": 42100,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 18842
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 549696,
+          "cost": 0.0352203,
+          "inputTokens": 48651,
+          "modelName": "hy3",
+          "outputTokens": 9072
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 658432,
+          "cost": 0.0142214548,
+          "inputTokens": 124115,
+          "modelName": "deepseek-v4-flash",
+          "outputTokens": 12288
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash",
+        "deepseek-v4-pro",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "hy3"
+      ],
+      "outputTokens": 146223,
+      "period": "2026-08-14",
+      "totalCost": 2.4053359268000003,
+      "totalTokens": 82834676
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 229767,
+      "cacheReadTokens": 82416960,
+      "inputTokens": 792402,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 628480,
+          "cost": 1.0445200000000001,
+          "inputTokens": 155202,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 8616
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 80665344,
+          "cost": 0.5416077119999998,
+          "inputTokens": 335822,
+          "modelName": "deepseek-v4-pro",
+          "outputTokens": 64677
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 416064,
+          "cost": 0.03684734,
+          "inputTokens": 141771,
+          "modelName": "hy3",
+          "outputTokens": 2037
+        },
+        {
+          "cacheCreationTokens": 229767,
+          "cacheReadTokens": 227456,
+          "cost": 0.031510835,
+          "inputTokens": 12,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 611
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 479616,
+          "cost": 0.0124444124,
+          "inputTokens": 159595,
+          "modelName": "deepseek-v4-flash",
+          "outputTokens": 2007
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash",
+        "deepseek-v4-pro",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "hy3"
+      ],
+      "outputTokens": 77948,
+      "period": "2026-08-15",
+      "totalCost": 1.6669302994000001,
+      "totalTokens": 83575620
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 227794,
+      "cacheReadTokens": 78576505,
+      "inputTokens": 1542392,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 348928,
+          "cost": 0.8970232,
+          "inputTokens": 168958,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 4081
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 77025280,
+          "cost": 0.7620566350000001,
+          "inputTokens": 903809,
+          "modelName": "deepseek-v4-pro",
+          "outputTokens": 59017
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 165504,
+          "cost": 0.04708808,
+          "inputTokens": 240638,
+          "modelName": "hy3",
+          "outputTokens": 4079
+        },
+        {
+          "cacheCreationTokens": 227794,
+          "cacheReadTokens": 472825,
+          "cost": 0.0403233,
+          "inputTokens": 36,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 3265
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 563968,
+          "cost": 0.0190471652,
+          "inputTokens": 228951,
+          "modelName": "deepseek-v4-flash",
+          "outputTokens": 4319
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash",
+        "deepseek-v4-pro",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "hy3"
+      ],
+      "outputTokens": 74761,
+      "period": "2026-08-16",
+      "totalCost": 1.7655383802,
+      "totalTokens": 80494768
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 50317,
+      "cacheReadTokens": 315939697,
+      "inputTokens": 11322895,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 202217216,
+          "cost": 114.0667784,
+          "inputTokens": 5543008,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 550393
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3900160,
+          "cost": 8.683195,
+          "inputTokens": 1282573,
+          "modelName": "gpt-5.5",
+          "outputTokens": 10675
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 61766400,
+          "cost": 2.17365852,
+          "inputTokens": 1024809,
+          "modelName": "deepseek-v4-pro",
+          "outputTokens": 37654
+        },
+        {
+          "cacheCreationTokens": 50317,
+          "cacheReadTokens": 36675441,
+          "cost": 1.5681402550000003,
+          "inputTokens": 2512603,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 265050
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 11380480,
+          "cost": 0.31271266000000003,
+          "inputTokens": 949371,
+          "modelName": "deepseek-v4-flash",
+          "outputTokens": 30162
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0.00656964,
+          "inputTokens": 10531,
+          "modelName": "hy3",
+          "outputTokens": 1897
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash",
+        "deepseek-v4-pro",
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "hy3"
+      ],
+      "outputTokens": 895831,
+      "period": "2026-08-17",
+      "totalCost": 126.811054475,
+      "totalTokens": 328271991
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 56862,
+      "cacheReadTokens": 945551584,
+      "inputTokens": 29505613,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 769497984,
+          "cost": 439.46462959999997,
+          "inputTokens": 21999944,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 2183283
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3524608,
+          "cost": 8.151594000000001,
+          "inputTokens": 1255496,
+          "modelName": "gpt-5.5",
+          "outputTokens": 3727
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 150064000,
+          "cost": 2.261430079999999,
+          "inputTokens": 4710334,
+          "modelName": "deepseek-v4-flash",
+          "outputTokens": 246061
+        },
+        {
+          "cacheCreationTokens": 56862,
+          "cacheReadTokens": 22464992,
+          "cost": 0.92800453,
+          "inputTokens": 1530443,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 139695
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0.00787408,
+          "inputTokens": 9396,
+          "modelName": "hy3",
+          "outputTokens": 3343
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash",
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "hy3"
+      ],
+      "outputTokens": 2576109,
+      "period": "2026-08-18",
+      "totalCost": 450.81353228999996,
+      "totalTokens": 977719012
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 107764,
+      "cacheReadTokens": 200280799,
+      "inputTokens": 10506476,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 145242880,
+          "cost": 87.47514799999999,
+          "inputTokens": 4984644,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 471971
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2183680,
+          "cost": 12.981105,
+          "inputTokens": 2340659,
+          "modelName": "gpt-5.5",
+          "outputTokens": 6199
+        },
+        {
+          "cacheCreationTokens": 107764,
+          "cacheReadTokens": 34831071,
+          "cost": 1.3825275499999998,
+          "inputTokens": 2166322,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 199620
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 17781248,
+          "cost": 0.35064941599999994,
+          "inputTokens": 916281,
+          "modelName": "deepseek-v4-flash",
+          "outputTokens": 37271
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 241920,
+          "cost": 0.03251386,
+          "inputTokens": 98570,
+          "modelName": "hy3",
+          "outputTokens": 2301
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash",
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "hy3"
+      ],
+      "outputTokens": 717362,
+      "period": "2026-08-19",
+      "totalCost": 102.221943826,
+      "totalTokens": 211638661
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 210281728,
+      "inputTokens": 12721905,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 86673792,
+          "cost": 46.5959368,
+          "inputTokens": 1799160,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 236489
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 350720,
+          "cost": 8.024070000000002,
+          "inputTokens": 1556716,
+          "modelName": "gpt-5.5",
+          "outputTokens": 2171
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 110296576,
+          "cost": 4.40970072,
+          "inputTokens": 7435310,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 597256
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 5393408,
+          "cost": 1.8706736,
+          "inputTokens": 244934,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 25177
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 7567232,
+          "cost": 0.4281465239999999,
+          "inputTokens": 1685785,
+          "modelName": "deepseek-v4-flash",
+          "outputTokens": 6520
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash",
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra"
+      ],
+      "outputTokens": 867613,
+      "period": "2026-08-20",
+      "totalCost": 61.328527644000005,
+      "totalTokens": 223871246
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 357776,
+      "cacheReadTokens": 746363406,
+      "inputTokens": 27321951,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 631321216,
+          "cost": 366.6641864,
+          "inputTokens": 19238060,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 1859173
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2965760,
+          "cost": 7.815425,
+          "inputTokens": 1248779,
+          "modelName": "gpt-5.5",
+          "outputTokens": 2955
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 103241600,
+          "cost": 2.1479948600000007,
+          "inputTokens": 5929059,
+          "modelName": "deepseek-v4-flash",
+          "outputTokens": 182772
+        },
+        {
+          "cacheCreationTokens": 357776,
+          "cacheReadTokens": 7919182,
+          "cost": 0.43490623999999994,
+          "inputTokens": 419063,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 64424
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 915520,
+          "cost": 0.011614722499999997,
+          "inputTokens": 281309,
+          "modelName": "hy3",
+          "outputTokens": 5249
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 128,
+          "cost": 0,
+          "inputTokens": 205681,
+          "modelName": "x-preview-f-free",
+          "outputTokens": 917
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash",
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "hy3",
+        "x-preview-f-free"
+      ],
+      "outputTokens": 2115490,
+      "period": "2026-08-21",
+      "totalCost": 377.07412722249995,
+      "totalTokens": 776212653
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 106956416,
+      "inputTokens": 3310359,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 30770688,
+          "cost": 19.0550952,
+          "inputTokens": 1242295,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 88882
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 21713152,
+          "cost": 0.79271644,
+          "inputTokens": 1108321,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 113991
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 145920,
+          "cost": 0.564115,
+          "inputTokens": 90185,
+          "modelName": "gpt-5.5",
+          "outputTokens": 1341
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 53024256,
+          "cost": 0.5429752720000001,
+          "inputTokens": 595699,
+          "modelName": "deepseek-v4-flash-vision-exp",
+          "outputTokens": 59974
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 886528,
+          "cost": 0.42463959999999995,
+          "inputTokens": 64753,
+          "modelName": "gpt-5.6-terra",
+          "outputTokens": 9819
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 415872,
+          "cost": 0,
+          "inputTokens": 209106,
+          "modelName": "x-preview-f-free",
+          "outputTokens": 2035
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash-vision-exp",
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "gpt-5.6-terra",
+        "x-preview-f-free"
+      ],
+      "outputTokens": 276042,
+      "period": "2026-08-22",
+      "totalCost": 21.379541512,
+      "totalTokens": 110545614
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 119666,
+      "cacheReadTokens": 460320475,
+      "inputTokens": 12828034,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 340649984,
+          "cost": 195.1466656,
+          "inputTokens": 9784083,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 987517
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1754880,
+          "cost": 5.850455,
+          "inputTokens": 968803,
+          "modelName": "gpt-5.5",
+          "outputTokens": 4300
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 99394048,
+          "cost": 0.9185406760000004,
+          "inputTokens": 797820,
+          "modelName": "deepseek-v4-flash-vision-exp",
+          "outputTokens": 71609
+        },
+        {
+          "cacheCreationTokens": 119666,
+          "cacheReadTokens": 18232027,
+          "cost": 0.8215972400000001,
+          "inputTokens": 1206959,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 152823
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 289536,
+          "cost": 0.017144932,
+          "inputTokens": 41758,
+          "modelName": "deepseek-v4-flash",
+          "outputTokens": 8987
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "cost": 0.0005984225,
+          "inputTokens": 28611,
+          "modelName": "hy3",
+          "outputTokens": 281
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash",
+        "deepseek-v4-flash-vision-exp",
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "hy3"
+      ],
+      "outputTokens": 1225517,
+      "period": "2026-08-23",
+      "totalCost": 202.7550018705,
+      "totalTokens": 474496643
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 570388736,
+      "inputTokens": 21065339,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 564771456,
+          "cost": 327.87250240000003,
+          "inputTokens": 16775785,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 1743039
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3780864,
+          "cost": 20.279297000000003,
+          "inputTokens": 3643225,
+          "modelName": "gpt-5.5",
+          "outputTokens": 5758
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1836416,
+          "cost": 0.23862652,
+          "inputTokens": 646329,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 60527
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 1809324,
+      "period": "2026-08-24",
+      "totalCost": 348.39042592000004,
+      "totalTokens": 593263399
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 152881600,
+      "inputTokens": 8245266,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 94679168,
+          "cost": 55.3189272,
+          "inputTokens": 2819405,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 308482
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3754240,
+          "cost": 18.870815,
+          "inputTokens": 3373509,
+          "modelName": "gpt-5.5",
+          "outputTokens": 4205
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 21082752,
+          "cost": 0.78473304,
+          "inputTokens": 1169664,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 107621
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 33365440,
+          "cost": 0,
+          "inputTokens": 882688,
+          "modelName": "ox-alpha-free",
+          "outputTokens": 67734
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "ox-alpha-free"
+      ],
+      "outputTokens": 488042,
+      "period": "2026-08-25",
+      "totalCost": 74.97447524,
+      "totalTokens": 161641023
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 458722688,
+      "inputTokens": 13371445,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 458722688,
+          "cost": 264.9019152,
+          "inputTokens": 13371445,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 1396353
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 1396353,
+      "period": "2026-08-26",
+      "totalCost": 264.9019152,
+      "totalTokens": 473490486
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 216829440,
+      "inputTokens": 5738581,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 69244800,
+          "cost": 49.780455999999994,
+          "inputTokens": 4038639,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 296399
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 598528,
+          "cost": 1.350389,
+          "inputTokens": 190215,
+          "modelName": "gpt-5.5",
+          "outputTokens": 3335
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 125216640,
+          "cost": 1.14176894,
+          "inputTokens": 389996,
+          "modelName": "deepseek-v4-flash-vision-exp",
+          "outputTokens": 179129
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 21769472,
+          "cost": 0.83232884,
+          "inputTokens": 1119731,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 144161
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash-vision-exp",
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 623024,
+      "period": "2026-08-27",
+      "totalCost": 53.104942779999995,
+      "totalTokens": 223283815
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 15246848,
+      "inputTokens": 881657,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 5334272,
+          "cost": 3.8990688,
+          "inputTokens": 313445,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 25579
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 115968,
+          "cost": 0.433549,
+          "inputTokens": 73061,
+          "modelName": "gpt-5.5",
+          "outputTokens": 342
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 9609472,
+          "cost": 0.32633984,
+          "inputTokens": 453822,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 36155
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 187136,
+          "cost": 0.013874591999999998,
+          "inputTokens": 41329,
+          "modelName": "deepseek-v4-flash-vision-exp",
+          "outputTokens": 1670
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash-vision-exp",
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 63746,
+      "period": "2026-08-28",
+      "totalCost": 4.672832231999999,
+      "totalTokens": 16195842
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 15083264,
+      "inputTokens": 974205,
+      "metadata": {
+        "agents": [
+          "codex"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 12442624,
+          "cost": 9.2599736,
+          "inputTokens": 758926,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 62361
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 620800,
+          "cost": 0.8485400000000001,
+          "inputTokens": 94650,
+          "modelName": "gpt-5.5",
+          "outputTokens": 2163
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2019840,
+          "cost": 0.089779,
+          "inputTokens": 120629,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 21047
+        }
+      ],
+      "modelsUsed": [
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 85571,
+      "period": "2026-08-29",
+      "totalCost": 10.1982926,
+      "totalTokens": 16143040
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 85089024,
+      "inputTokens": 3246571,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 41175808,
+          "cost": 25.4190472,
+          "inputTokens": 1296171,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 188202
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 639488,
+          "cost": 1.386369,
+          "inputTokens": 185839,
+          "modelName": "gpt-5.5",
+          "outputTokens": 4581
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 31765504,
+          "cost": 0.99020328,
+          "inputTokens": 957536,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 136155
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 11508224,
+          "cost": 0.282473568,
+          "inputTokens": 807025,
+          "modelName": "deepseek-v4-flash-vision-exp",
+          "outputTokens": 17053
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash-vision-exp",
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 345991,
+      "period": "2026-08-30",
+      "totalCost": 28.078093048000003,
+      "totalTokens": 88701458
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 177628032,
+      "inputTokens": 4415859,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 44308608,
+          "cost": 32.8024792,
+          "inputTokens": 2727544,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 208443
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 174592,
+          "cost": 1.4634460000000002,
+          "inputTokens": 259114,
+          "modelName": "gpt-5.5",
+          "outputTokens": 2686
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 117032448,
+          "cost": 1.0919325359999996,
+          "inputTokens": 825351,
+          "modelName": "deepseek-v4-flash-vision-exp",
+          "outputTokens": 87004
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 16112384,
+          "cost": 0.52004208,
+          "inputTokens": 603850,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 64187
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash-vision-exp",
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 362320,
+      "period": "2026-08-31",
+      "totalCost": 35.877899816,
+      "totalTokens": 182457280
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 88425,
+      "cacheReadTokens": 150807249,
+      "inputTokens": 4094037,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 42808832,
+          "cost": 27.7947968,
+          "inputTokens": 1853776,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 162808
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 97268224,
+          "cost": 1.1651048279999996,
+          "inputTokens": 1403453,
+          "modelName": "deepseek-v4-flash-vision-exp",
+          "outputTokens": 143904
+        },
+        {
+          "cacheCreationTokens": 88425,
+          "cacheReadTokens": 10070801,
+          "cost": 0.40998927,
+          "inputTokens": 690769,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 34959
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 98752,
+          "cost": 0.02810352,
+          "inputTokens": 85211,
+          "modelName": "hy3",
+          "outputTokens": 3934
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 560640,
+          "cost": 0.027859379999999996,
+          "inputTokens": 60828,
+          "modelName": "deepseek-v4-flash",
+          "outputTokens": 6083
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash",
+        "deepseek-v4-flash-vision-exp",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol",
+        "hy3"
+      ],
+      "outputTokens": 351688,
+      "period": "2026-09-01",
+      "totalCost": 29.425853798,
+      "totalTokens": 155496556
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 54830080,
+      "inputTokens": 2954424,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 17472128,
+          "cost": 15.1517712,
+          "inputTokens": 1522300,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 103686
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 41728,
+          "cost": 0.45494400000000007,
+          "inputTokens": 78464,
+          "modelName": "gpt-5.5",
+          "outputTokens": 1392
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 27082112,
+          "cost": 0.41718788400000006,
+          "inputTokens": 667615,
+          "modelName": "deepseek-v4-flash-vision-exp",
+          "outputTokens": 55596
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 10234112,
+          "cost": 0.39799484,
+          "inputTokens": 686045,
+          "modelName": "gpt-5.6-luna",
+          "outputTokens": 46753
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash-vision-exp",
+        "gpt-5.5",
+        "gpt-5.6-luna",
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 207427,
+      "period": "2026-09-02",
+      "totalCost": 16.421897924,
+      "totalTokens": 58058665
+    },
+    {
+      "agent": "all",
+      "cacheCreationTokens": 0,
+      "cacheReadTokens": 5974784,
+      "inputTokens": 434170,
+      "metadata": {
+        "agents": [
+          "codex",
+          "opencode"
+        ]
+      },
+      "modelBreakdowns": [
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 3176832,
+          "cost": 2.4860727999999996,
+          "inputTokens": 212415,
+          "modelName": "gpt-5.6-sol",
+          "outputTokens": 18284
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 2793088,
+          "cost": 0.06960557599999999,
+          "inputTokens": 211609,
+          "modelName": "deepseek-v4-flash-vision-exp",
+          "outputTokens": 3043
+        },
+        {
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 4864,
+          "cost": 0.057512,
+          "inputTokens": 10146,
+          "modelName": "gpt-5.5",
+          "outputTokens": 145
+        }
+      ],
+      "modelsUsed": [
+        "deepseek-v4-flash-vision-exp",
+        "gpt-5.5",
+        "gpt-5.6-sol"
+      ],
+      "outputTokens": 21472,
+      "period": "2026-09-03",
+      "totalCost": 2.6131903759999995,
+      "totalTokens": 6432686
     }
   ],
   "totals": {
-    "cacheCreationTokens": 1677491,
-    "cacheReadTokens": 1954340071,
-    "inputTokens": 702137063,
-    "outputTokens": 7465016,
-    "totalCost": 3903.372757244601,
-    "totalTokens": 2666766887
+    "cacheCreationTokens": 4624042,
+    "cacheReadTokens": 8352647064,
+    "inputTokens": 907461268,
+    "outputTokens": 24479735,
+    "totalCost": 6167.941767760399,
+    "totalTokens": 9292154151
   },
   "tools": [
     [
       "Claude Code",
-      9.094947017729282e-13
+      -9.094947017729282e-13
     ],
     [
       "Codex",
-      3899.98704128
+      6142.962831399999
     ],
     [
       "OpenCode",
-      3.3857159646
+      24.978936360399995
     ]
   ]
 }
