@@ -17,6 +17,14 @@
   <img height="150" src="https://streak-stats.demolab.com?user=dongwonmoon&hide_border=true&background=00000000&ring=57606A&fire=57606A&currStreakNum=24292F&sideNums=24292F&currStreakLabel=24292F&sideLabels=57606A&dates=8C959F&stroke=EAECEF" />
 </p>
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/dongwonmoon/svg?template=graph&tokens=compact&cost=compact)](https://tokscale.ai/u/dongwonmoon)
+<p align="center">
+  <a href="https://tokscale.ai/u/dongwonmoon">
+    <img src="https://tokscale.ai/api/embed/dongwonmoon/svg?template=graph&amp;tokens=compact&amp;cost=compact" alt="Tokscale Stats" />
+  </a>
+</p>
 
-[![AI usage breakdown](https://raw.githubusercontent.com/dongwonmoon/dongwonmoon/main/cards/ai-usage-details.svg)](https://tokscale.ai/u/dongwonmoon)
+<p align="center">
+  <a href="https://tokscale.ai/u/dongwonmoon">
+    <img src="https://raw.githubusercontent.com/dongwonmoon/dongwonmoon/main/cards/ai-usage-details.svg" alt="AI usage breakdown" />
+  </a>
+</p>
