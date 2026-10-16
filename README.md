@@ -1,7 +1,9 @@
 ## 👋👋
 
 <p align="center">
-  <sub>Kim Jung Mi - Now</sub>
+  <img width="200" height="200" src="https://raw.githubusercontent.com/dongwonmoon/dongwonmoon/main/assets/geese.png" alt="Geese" />
+  <br />
+  <sub>Geese</sub>
 </p>
 
 <br />
@@ -16,5 +18,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/dongwonmoon/dongwonmoon/main/cards/ai-usage-combo.svg" alt="AI coding usage" />
+  <a href="https://tokscale.ai/u/dongwonmoon">
+    <img width="100%" src="https://tokscale.ai/api/embed/dongwonmoon/svg?template=minimal&amp;color=monochrome&amp;theme=light&amp;graph=1" alt="Tokscale AI coding usage" />
+  </a>
 </p>
