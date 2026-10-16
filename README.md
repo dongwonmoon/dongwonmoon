@@ -19,6 +19,6 @@
 
 <p align="center">
   <a href="https://tokscale.ai/u/dongwonmoon">
-    <img width="100%" src="https://tokscale.ai/api/embed/dongwonmoon/svg?template=minimal&amp;color=monochrome&amp;theme=light&amp;graph=1" alt="Tokscale AI coding usage" />
+    <img width="100%" src="https://tokscale.ai/api/embed/dongwonmoon/svg?template=minimal&amp;color=monochrome&amp;theme=light&amp;graph=1&amp;tokens=compact&amp;cost=compact" alt="Tokscale AI coding usage" />
   </a>
 </p>
